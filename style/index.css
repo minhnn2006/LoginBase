@@ -3,16 +3,16 @@ h1{
     color: red;
 }
 .imgHeader{
-    width: 30%;
-    height: 30%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 30px;
+    height: 30px;
+    display: inline;
+   
 }
 .title {
     font-size: 0.85rem;
     font-weight: 700;
     line-height: 2.3rem;
+    margin-top: 14rem;
     margin-bottom: 1rem;
     text-align: center;
     display: block;
@@ -59,12 +59,39 @@ h1{
     margin: 7 auto;
     font-size: 11px;
 }
-a{
+/* a{
     text-align: center;
     color: gray;
     font-size: 12px;
     display: block;
     width: 200px;
     margin: 0.65rem 0 0 32.5rem;
+} */
+.ForgotPassword{
+    margin: 1rem 0 0 58rem;
+    font-size: 12px;
+    color: gray;
+    text-decoration: gray;
+}
+.Register{
+        font-size: 12px;
+        margin: 2rem 0 0 55.99rem;
+}
+.shopify-section-header{
+    display: block;
+}
+.nav {
+    text-align: center;
+    margin: 0 0 0 -3.5rem;
+   color: gray;
+  }
 
+  .nav li {
+    display: inline-block;
+    font-size: 18px;
+    margin: 0 1rem 0 1rem;
+  }
+.Styles__Container{
+    color: gray;
+    display: inline-block
 }
